@@ -21,11 +21,13 @@ We will combine multiple data sources to illustrate how sea level rise is affect
   - Source: NYC OpenData, https://data.cityofnewyork.us/City-Government/Property-Valuation-and-Assessment-Data-Tax-Classes/8y4t-faws
 ## Intended Analysis and Visualizations
 We plan to visualize sea level rise's impacts on New York City. To do so, we plan to create two independent variables:
-1. A sea level rise layer that depicts projected sea level rise.
-2. An insurance rate layer that depicts insurance rates associated with predicted flooding.
+1. Sea level rise data that depicts projected sea level rise.
+2. Insurance rate data that depicts insurance rates associated with predicted flooding.
 
 Then, we plan to compare that data with multiple dependent variables:
 1. ACS data at the census tract or census block level. We will show population changes, social indicators, and economic indicators. By comparing projected sea level rise to this information we can analyze whether it has had an impact on those locations that are most vulnerable.
 2. Property value data. By looking at changes in property values we can analyze whether projected sea level rise and/or changes in flood insurance rates are impacting the assessed values of real estate in New York City.
+
+We plan to visualize the data by adding it to a map of New York City. The projected sea level rise will likely serve as the base layer, which can then be compared with the other variables through toggling on and off. We hope that this visualization will answer the research question by showing where the demographic, social, economic, and financial changes are located in relation to projected sea levels.
 ## Conclusion
 We hope that this research can illuminate how sea level rise is impacting coastal areas of New York City. By comparing projected sea level rise and flood insurance rates with demographic, social, economic, and real estate data, this project will create a comprehensive picture of how communities are affected by climate change.  We hope that by answering these questions we can determine the extent to which projected sea level rise is changing behaviors and economies.  We also hope that this information can be used to better prepare for the impacts of climate change, and to better protect the populations that may be the most vulnerable.

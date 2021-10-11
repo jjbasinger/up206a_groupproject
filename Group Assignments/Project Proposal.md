@@ -1,6 +1,6 @@
 # Project Proposal
 ## Research Question
-How does projected sea level rise impact the population and real estate market in New York City?
+How does projected sea level rise impact New York City's population and real estate market?
 
 ### Explanation
 These past weeks, the Amtrak train connecting Los Angeles and San Diego has been unavailable to passengers as the ground beneath the coastal railroad tracks has unexpectedly shifted. This threat to the railroad due to coastal erosion and sea movements has shown us how sea level rise already impacts our daily lives and necessary resources, in particular because Jacob lives in San Diego and has to commute to Los Angeles to attend school. On the other side of the world, in Brittany, France, Lucia’s relatives live in a peninsula where sea level rise is already clearly observable, threatening homes and changing how new ones are built to be more flood/water resilient. In many other areas of the world, populations are forced to either leave their lifelong homes as their neighborhoods become unlivable, adapt their structures to the risk of flood, or live in unsafe housing, all due to sea level rise. This research question is important because it may provide the opportunity to take a step toward becoming more resilient and adaptable to sea level rise by showing how it can affect people and their communities.

@@ -1,6 +1,6 @@
 # Project Proposal
 ## Research Question
-How does projected sea level rise impact populations and the real estate market in New York City?
+How does projected sea level rise impact the population and real estate market in New York City?
 ### Explanation
 
 ### Spatial Scope

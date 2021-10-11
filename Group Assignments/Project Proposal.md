@@ -1,9 +1,13 @@
 # Project Proposal
 ## Research Question
 How does projected sea level rise impact the population and real estate market in New York City?
+
 ### Explanation
+These past weeks, the Amtrak train connecting Los Angeles and San Diego has been unavailable to passengers as the ground beneath the coastal railroad tracks has unexpectedly shifted. This connection being threatened by erosion and sea movements has shown us how sea level rise already impacts our daily lives and necessary resources, in particular as Jacob lives in San Diego and has to commute to Los Angeles to attend school. On the other side of the ocean, in Brittany, France, Lucia’s relatives live in a peninsula where sea level rise is already clearly observable, threatening homes and changing how new ones are built to be more flood/water resilient. In many other areas of the world, populations have to leave their lifelong homes as entire neighborhoods become unlivable, adapt their structures to the risk of flood, and live in unsafe housing, due to sea level rise. 
 
 ### Spatial Scope
+In New York City, the 2012 Sandy storm revealed the vulnerability of certain local waterfront areas, in particular Southern Manhattan and the South Shores of Staten Island. Entire communities are already being displaced as the city buys houses in areas threatened by severe storms and sea level rise. Architect Simon David has been mandated to work on making the city more resilient to this phenomenon by erecting walls to protect Manhattan from the water. 
+We decided to focus on the New York City area as it is emblematic of the struggle to deal with sea level rise today, and prepare for inevitable upcoming changes: In the NYC area, sea level is projected to rise by 2 metres before the end of the century. The NYC metropolitan area being the most densely populated urban area in the United States, its exposure to sea level rise is a particularly critical menace. 
 
 ## Data Sources
 We will combine multiple data sources to illustrate how sea level rise is affecting, or will affect, New York City.

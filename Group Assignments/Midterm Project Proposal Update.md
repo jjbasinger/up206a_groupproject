@@ -2,8 +2,8 @@
 *Original proposal: https://github.com/jjbasinger/up206a_groupproject/blob/main/Group%20Assignments/Project%20Proposal.md?plain=1*
 
 ## Roles
-- Jacob: 
-- Lucia:
+- Jacob: data cleaning and mapping
+- Lucia: data charting
 
 ## Status Update
 Our mood is good because we were able to incorporate both temporal census data and sea level rise data into our project up to this point.  While we have not found much correlation between projected flooding due to climate change and population changes, we are optimistic about our project because we have accomplished much of what we set out to do.
